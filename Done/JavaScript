@@ -1,0 +1,6 @@
+let a;
+let b;
+a = ("Hello ")
+b = ("world")
+alert (a)
+alert (b)
